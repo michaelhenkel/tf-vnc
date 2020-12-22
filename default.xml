@@ -8,7 +8,7 @@
   <copyfile src="SConstruct" dest="SConstruct"/>
 </project>
 <project name="tf-controller" remote="githubccng" revision="contrail-config-ng-rebase" path="controller"/>
-<project name="tf-vrouter" remote="github" revision="R2011" path="vrouter"/>
+<project name="tf-vrouter" remote="github" revision="331df50fbbea3f4d54946d5cb907744faa0bb486" path="vrouter"/>
 <project name="tf-third-party" remote="githubccng" revision="contrail-config-ng-rebase" path="third_party"/>
 <project name="tf-common" remote="githubccng" revision="contrail-config-ng-rebase" path="src/contrail-common"/>
 <project name="tf-analytics" remote="githubccng" revision="contrail-config-ng-rebase" path="src/contrail-analytics"/>
